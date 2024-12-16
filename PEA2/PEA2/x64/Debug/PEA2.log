@@ -1,0 +1,7 @@
+﻿  TabuSearch.cpp
+C:\Users\Piotr\source\repos\PEA2\TabuSearch.cpp(106,94): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\Piotr\source\repos\PEA2\TabuSearch.cpp(106,94): warning C4267:         with
+C:\Users\Piotr\source\repos\PEA2\TabuSearch.cpp(106,94): warning C4267:         [
+C:\Users\Piotr\source\repos\PEA2\TabuSearch.cpp(106,94): warning C4267:             _Ty=int
+C:\Users\Piotr\source\repos\PEA2\TabuSearch.cpp(106,94): warning C4267:         ]
+  PEA2.vcxproj -> C:\Users\Piotr\source\repos\PEA2\x64\Debug\PEA2.exe

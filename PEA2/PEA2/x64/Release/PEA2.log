@@ -1,0 +1,16 @@
+﻿  Menu.cpp
+  TabuSearch.cpp
+C:\Users\Piotr\source\repos\PEA2\TabuSearch.cpp(132,94): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\Piotr\source\repos\PEA2\TabuSearch.cpp(132,94): warning C4267:         with
+C:\Users\Piotr\source\repos\PEA2\TabuSearch.cpp(132,94): warning C4267:         [
+C:\Users\Piotr\source\repos\PEA2\TabuSearch.cpp(132,94): warning C4267:             _Ty=int
+C:\Users\Piotr\source\repos\PEA2\TabuSearch.cpp(132,94): warning C4267:         ]
+C:\Users\Piotr\source\repos\PEA2\TabuSearch.cpp(310,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Piotr\source\repos\PEA2\TabuSearch.cpp(318,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Piotr\source\repos\PEA2\TabuSearch.cpp(350,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  3 of 684 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    49 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PEA2.vcxproj -> C:\Users\Piotr\source\repos\PEA2\x64\Release\PEA2.exe
